@@ -1,0 +1,49 @@
+2025.01.19 15:15:23
+
+Victim: Easley
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Hedgehog
+System: Brana
+Security: 0.0
+Damage Taken: 32231
+
+Involved parties:
+
+Name: UKFatGuy
+Security: 0.2
+Corp: Wandering Order of the Last Frontier
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 11040
+
+Name: Micah Theron
+Security: 0.0
+Corp: Wandering Order of the Last Frontier
+Alliance: None
+Faction: None
+Ship: Baile
+Weapon: Baile
+Damage Done: 7623
+
+Name: Kim Fatty III (laid the final blow)
+Security: 0.00
+Corp: Wandering Order of the Last Frontier
+Alliance: None
+Faction: None
+Ship: Baile
+Weapon: Rapid Plasma (M)
+Damage Done: 7567
+
+Name: Zog Krividus
+Security: 0.0
+Corp: Wandering Order of the Last Frontier
+Alliance: None
+Faction: None
+Ship: Baile
+Weapon: Baile
+Damage Done: 6001
+

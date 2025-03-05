@@ -1,0 +1,231 @@
+2025.02.22 18:29:40
+
+Victim: Wallyx
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Axte
+System: B:2AK7
+Security: 0.0
+Damage Taken: 23054
+
+Involved parties:
+
+Name: Feral Mooneater / Unknown
+Damage Done: 22528
+
+Name: Kal'ter (laid the final blow)
+Security: 0.00
+Corp: Clonebank 86
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Base Coilgun (S)
+Damage Done: 355
+
+Name: Gwen Ravenfire
+Security: 0.1
+Corp: OP4S
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 171
+
+Name: Jakelope
+Security: 0.3
+Corp: Caldari's First Order Alternate
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 0
+
+Name: Kori Kan
+Security: 0.0
+Corp: Clonebank 86
+Alliance: None
+Faction: None
+Ship: Jauv
+Weapon: Jauv
+Damage Done: 0
+
+Name: John Blathos
+Security: 0.1
+Corp: DEAD
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 0
+
+Name: Michael JD
+Security: 0.1
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Unknown
+Weapon: Caruda
+Damage Done: 0
+
+Name: DataDry
+Security: 0.0
+Corp: Caldari's First Order Alternate
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 0
+
+Name: San Sha
+Security: 0.1
+Corp: Algorithmic Warfare RELOADED
+Alliance: None
+Faction: None
+Ship: Dremar
+Weapon: Dremar
+Damage Done: 0
+
+Name: Rabb
+Security: 0.1
+Corp: Caldari's First Order Alternate
+Alliance: None
+Faction: None
+Ship: Dremar
+Weapon: Dremar
+Damage Done: 0
+
+Name: Cry Agony
+Security: 0.1
+Corp: Foundation
+Alliance: None
+Faction: None
+Ship: Dremar
+Weapon: Dremar
+Damage Done: 0
+
+Name: spacebear
+Security: 0.1
+Corp: Aardvark Industries
+Alliance: None
+Faction: None
+Ship: Val
+Weapon: Val
+Damage Done: 0
+
+Name: CasualAZZ
+Security: 0.1
+Corp: Reapers III
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 0
+
+Name: Kokikker Alfrir
+Security: 0.3
+Corp: DEAD
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 0
+
+Name: Unknown
+Security: 0.0
+Corp: Clonebank 86
+Alliance: None
+Faction: None
+Ship: Strix
+Weapon: Strix
+Damage Done: 0
+
+Name: Sav
+Security: 0.0
+Corp: Reapers III
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 0
+
+Name: J D
+Security: 0.1
+Corp: Reapers II
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 0
+
+Name: Kelrift Deago
+Security: 0.0
+Corp: V.O.I.D.
+Alliance: None
+Faction: None
+Ship: Forager
+Weapon: Forager
+Damage Done: 0
+
+Name: Selyn
+Security: 0.1
+Corp: Settlers Inc.
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 0
+
+Name: DoomsdayFighter
+Security: 0.0
+Corp: Clonebank 86
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 0
+
+Name: Nargilem
+Security: 0.0
+Corp: REAPERS IV
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 0
+
+Name: CleoMouri
+Security: 0.0
+Corp: Reapers II
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 0
+
+Destroyed items:
+
+Rapid Plasma (M) 
+Cargo Grid 
+Engine GSC L 
+Rapid Plasma Ammo 1 (M), Qty: 5480 (Cargo)
+Rapid Plasma (M) 
+Rapid Plasma (M) 
+Attuned Shield Generator IV 
+Shield Restorer IV 
+Thermal Field Array VI 
+Bulwark Shield Generator IV 
+Rapid Plasma Ammo 1 (M), Qty: 38 
+Rapid Plasma Ammo 1 (M), Qty: 38 
+
+Dropped items:
+
+Rapid Plasma (M) 
+Shield Restorer IV 
+Cargo Grid 
+Shield Restorer IV 
+Afterburner V 
+Kinetic Field Array VI 
+Rapid Plasma Ammo 1 (M), Qty: 43 
+Rapid Plasma Ammo 1 (M), Qty: 43 
+

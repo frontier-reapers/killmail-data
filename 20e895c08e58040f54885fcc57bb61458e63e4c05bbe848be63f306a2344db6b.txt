@@ -1,0 +1,30 @@
+2025.01.15 18:44:00
+
+Victim: Ruguki
+Corp: Dominion
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Explorer
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1000
+
+Involved parties:
+
+Name: Scetrov (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Smart Turret
+Weapon: Base Coilgun (S)
+Damage Done: 1000
+
+Destroyed items:
+
+Engine uSOF XS 
+
+Dropped items:
+
+Small Cutting Laser 
+

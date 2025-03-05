@@ -1,0 +1,39 @@
+2025.01.16 21:12:43
+
+Victim: Girl
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Jauv
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 280
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Small Cutting Laser
+Damage Done: 280
+
+Destroyed items:
+
+Synthetic Mining Lens, Qty: 5 (Cargo)
+Cargo Grid 
+Small Cutting Laser 
+Engine GSC XS 
+Small Cutting Laser 
+Cargo Grid 
+
+Dropped items:
+
+Synthetic Mining Lens (Cargo)
+Synthetic Mining Lens 
+Synthetic Mining Lens 
+Afterburner 
+Carbonaceous Ore, Qty: 1418 (Cargo)
+

@@ -1,0 +1,34 @@
+2025.02.17 19:33:14
+
+Victim: Frostbeule
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1600
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Strix
+Weapon: Base Autocannon (S)
+Damage Done: 1600
+
+Destroyed items:
+
+Small Cutting Laser 
+Synthetic Mining Lens, Qty: 3 (Cargo)
+
+Dropped items:
+
+Metal-rich Ore, Qty: 658 (Cargo)
+Afterburner 
+Synthetic Mining Lens 
+Engine uSOF XS 
+

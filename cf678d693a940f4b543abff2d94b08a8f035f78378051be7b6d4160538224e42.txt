@@ -1,0 +1,75 @@
+2025.02.22 18:27:20
+
+Victim: Daemon Xel
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Axte
+System: B:2AK7
+Security: 0.0
+Damage Taken: 11397
+
+Involved parties:
+
+Name: Feral Drone Revenant
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 5728
+
+Name: Feral Drone Tau
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 2431
+
+Name: Feral Drone Experiment
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 2166
+
+Name: Feral Drone Psychosis (laid the final blow)
+Security: 0.00
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Base Railgun (L)
+Damage Done: 1072
+
+Destroyed items:
+
+Coated Armor Plates IV 
+Rapid Plasma (M) 
+Coated Armor Plates IV 
+Afterburner V 
+Thermalnetic Nanitic Brace IV 
+Rapid Plasma (M) 
+Rapid Plasma (M) 
+Cargo Grid 
+Thermalnetic Nanitic Brace IV 
+Rapid Plasma Ammo 1 (M), Qty: 60 
+Rapid Plasma Ammo 1 (M), Qty: 60 
+
+Dropped items:
+
+Rapid Plasma Ammo 1 (M), Qty: 5220 (Cargo)
+Rapid Plasma (M) 
+Cargo Grid 
+Engine GSC L 
+Stasis Net II 
+Systematic Armor Restorer IV 
+Systematic Armor Restorer IV 
+Rapid Plasma Ammo 1 (M), Qty: 60 
+Rapid Plasma Ammo 1 (M), Qty: 60 
+

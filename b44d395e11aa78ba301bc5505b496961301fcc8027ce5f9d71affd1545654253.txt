@@ -1,0 +1,35 @@
+2025.02.20 15:23:46
+
+Victim: Nexus
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1599
+
+Involved parties:
+
+Name: Scetrov (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Smart Turret
+Weapon: Base Coilgun (S)
+Damage Done: 1599
+
+Destroyed items:
+
+Synthetic Mining Lens, Qty: 10 (Cargo)
+Afterburner 
+Small Cutting Laser 
+Cargo Grid 
+
+Dropped items:
+
+Cargo Grid 
+Engine uSOF XS 
+Synthetic Mining Lens 
+

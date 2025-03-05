@@ -1,0 +1,37 @@
+2025.02.18 21:12:03
+
+Victim: unit
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1600
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Base Coilgun (S)
+Damage Done: 1600
+
+Destroyed items:
+
+Afterburner 
+Carbonaceous Ore, Qty: 2 (Cargo)
+Carbonaceous Materials, Qty: 2226 (Cargo)
+Water Ice, Qty: 21105 (Cargo)
+Synthetic Mining Lens 
+
+Dropped items:
+
+Engine uSOF XS 
+Synthetic Mining Lens, Qty: 4 (Cargo)
+Silicates, Qty: 318 (Cargo)
+Small Cutting Laser 
+

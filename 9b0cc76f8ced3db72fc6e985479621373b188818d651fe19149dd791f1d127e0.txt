@@ -1,0 +1,42 @@
+2025.02.16 10:03:24
+
+Victim: Ezekiel
+Corp: Riders On The Storm
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Pici
+System: I.D9Y.L61
+Security: 0.0
+Damage Taken: 3500
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Smart Turret
+Weapon: Base Coilgun (S)
+Damage Done: 3500
+
+Destroyed items:
+
+Afterburner II 
+AC Gyrojet Ammo 3 (S), Qty: 78 (Cargo)
+Cargo Grid 
+SOF-40 Fuel, Qty: 177 (Cargo)
+Cargo Grid 
+AC Gyrojet Ammo 1 (S) , Qty: 80 
+AC Gyrojet Ammo 1 (S) , Qty: 80 
+
+Dropped items:
+
+Cargo Grid 
+Base Autocannon (S) 
+AC Gyrojet Ammo 1 (S) , Qty: 212 (Cargo)
+Cargo Grid 
+AC Gyrojet Ammo 2 (S), Qty: 136 (Cargo)
+Engine SNM S 
+Base Autocannon (S) 
+

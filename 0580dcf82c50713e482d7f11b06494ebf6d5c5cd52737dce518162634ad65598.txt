@@ -1,0 +1,27 @@
+2025.02.18 21:00:40
+
+Victim: Malbo
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: A.M8Z.8C1
+Security: 0.0
+Damage Taken: 1600
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Base Coilgun (S)
+Damage Done: 1600
+
+Dropped items:
+
+Engine uSOF XS 
+Afterburner 
+

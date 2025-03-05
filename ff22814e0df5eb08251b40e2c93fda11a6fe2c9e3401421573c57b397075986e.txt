@@ -1,0 +1,37 @@
+2025.02.19 07:22:57
+
+Victim: Jamie
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Explorer
+System: B:22VR
+Security: 0.0
+Damage Taken: 1000
+
+Involved parties:
+
+Name: E V (laid the final blow)
+Security: 0.00
+Corp: Clonebank 86
+Alliance: None
+Faction: None
+Ship: Explorer
+Weapon: Small Cutting Laser
+Damage Done: 1000
+
+Destroyed items:
+
+Water Ice, Qty: 200 (Cargo)
+Engine uSOF XS 
+Silicates, Qty: 60 (Cargo)
+uSOF-30 Fuel, Qty: 616 (Cargo)
+Carbonaceous Materials, Qty: 420 (Cargo)
+Eclipsite Mining Lens, Qty: 2 (Cargo)
+Large Cutting Laser 
+
+Dropped items:
+
+Water Ice, Qty: 4100 (Cargo)
+Eclipsite Mining Lens 
+

@@ -1,0 +1,33 @@
+2025.01.18 19:43:33
+
+Victim: zlo
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Explorer
+System: I.8WK.9R1
+Security: 0.0
+Damage Taken: 1000
+
+Involved parties:
+
+Name: Scetrov (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Smart Turret
+Weapon: Base Coilgun (S)
+Damage Done: 1000
+
+Destroyed items:
+
+Engine uSOF XS 
+
+Dropped items:
+
+Small Cutting Laser 
+Synthetic Mining Lens 
+uSOF-30 Fuel, Qty: 950 (Cargo)
+Synthetic Mining Lens, Qty: 7 (Cargo)
+

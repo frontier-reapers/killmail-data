@@ -1,0 +1,31 @@
+2025.02.15 08:39:43
+
+Victim: 555555555555555555555555
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1554
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Strix
+Weapon: Base Autocannon (S)
+Damage Done: 1554
+
+Dropped items:
+
+Synthetic Mining Lens, Qty: 4 (Cargo)
+Small Cutting Laser 
+Afterburner 
+Synthetic Mining Lens 
+Engine uSOF XS 
+Carbonaceous Ore, Qty: 2 (Cargo)
+

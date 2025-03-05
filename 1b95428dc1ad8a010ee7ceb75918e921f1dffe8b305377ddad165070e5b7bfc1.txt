@@ -1,0 +1,49 @@
+2025.01.19 02:32:00
+
+Victim: Wallyx
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Smart Gate
+System: D.0MK.66P
+Security: 0.0
+Damage Taken: 70413
+
+Involved parties:
+
+Name: MrDeadMeat
+Security: 0.1
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 27912
+
+Name: Kieser Soze (laid the final blow)
+Security: 0.10
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Base Railgun (L)
+Damage Done: 23720
+
+Name: Alpha
+Security: 0.1
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Stasis Net II
+Damage Done: 18781
+
+Name: Harudath
+Security: 0.0
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Warp Entangler II
+Damage Done: 0
+

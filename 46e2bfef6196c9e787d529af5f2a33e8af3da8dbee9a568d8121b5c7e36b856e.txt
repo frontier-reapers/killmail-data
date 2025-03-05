@@ -1,0 +1,86 @@
+2025.02.22 19:03:06
+
+Victim: Wallyx
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Microptero
+System: B:2AK7
+Security: 0.0
+Damage Taken: 3375
+
+Involved parties:
+
+Name: Feral Mooneater / Unknown
+Damage Done: 3375
+
+Name: Emotion
+Security: 0.1
+Corp: Caldari's First Order Alternate
+Alliance: None
+Faction: None
+Ship: Unknown
+Weapon: Microptero
+Damage Done: 0
+
+Name: Feral Drone Kataphron
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Base Railgun (L)
+Damage Done: 0
+
+Name: Feral Drone Extirpator
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Base Railgun (L)
+Damage Done: 0
+
+Name: Feral Drone Carnifex
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Base Railgun (L)
+Damage Done: 0
+
+Name: Feral Drone Psychosis
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Base Railgun (L)
+Damage Done: 0
+
+Name: DimasFantomas (laid the final blow)
+Security: 0.00
+Corp: Clonebank 86
+Alliance: None
+Faction: None
+Ship: Jauv
+Weapon: Jauv
+Damage Done: 0
+
+Destroyed items:
+
+Cargo Grid 
+Warp Entangler II 
+Coated Armor Plates II 
+Cargo Grid 
+AC Gyrojet Ammo 1 (S) , Qty: 67 
+
+Dropped items:
+
+Afterburner II 
+Stasis Net II 
+Coated Armor Plates II (Cargo)
+Engine GSC S 
+Base Autocannon (S) 
+

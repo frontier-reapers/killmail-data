@@ -1,0 +1,41 @@
+2025.01.18 08:17:03
+
+Victim: zlo
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Jauv
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 726
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Base Coilgun (S)
+Damage Done: 726
+
+Destroyed items:
+
+Cargo Grid 
+Carbonaceous Ore, Qty: 8 (Cargo)
+Synthetic Mining Lens 
+Small Cutting Laser 
+Small Cutting Laser 
+Synthetic Mining Lens, Qty: 43 (Cargo)
+Iron-Nickel Metals, Qty: 22590 (Cargo)
+Synthetic Mining Lens 
+uSOF-30 Fuel, Qty: 262 (Cargo)
+
+Dropped items:
+
+Afterburner 
+Metal-rich Ore, Qty: 420 (Cargo)
+Engine GSC XS 
+Cargo Grid 
+

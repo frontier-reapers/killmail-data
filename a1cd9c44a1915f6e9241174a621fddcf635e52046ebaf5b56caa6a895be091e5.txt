@@ -1,0 +1,32 @@
+2025.02.15 21:40:00
+
+Victim: PannedCakes
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 664
+
+Involved parties:
+
+Name: phantom (laid the final blow)
+Security: 0.20
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Harpia
+Weapon: Base Autocannon (S)
+Damage Done: 664
+
+Destroyed items:
+
+Small Cutting Laser 
+Afterburner 
+
+Dropped items:
+
+Synthetic Mining Lens 
+Engine uSOF XS 
+

@@ -1,0 +1,34 @@
+2025.02.19 18:07:49
+
+Victim: Evenios
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: I.D9Y.L61
+Security: 0.0
+Damage Taken: 1600
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Smart Turret
+Weapon: Base Coilgun (S)
+Damage Done: 1600
+
+Destroyed items:
+
+Carbonaceous Ore, Qty: 2 (Cargo)
+Engine uSOF XS 
+Small Cutting Laser 
+Synthetic Mining Lens 
+Afterburner 
+
+Dropped items:
+
+Synthetic Mining Lens, Qty: 4 (Cargo)
+

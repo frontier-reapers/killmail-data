@@ -1,0 +1,36 @@
+2025.02.18 06:56:19
+
+Victim: Nexus
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1521
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Strix
+Weapon: Base Autocannon (S)
+Damage Done: 1521
+
+Destroyed items:
+
+Light Metal Alloy, Qty: 1000 (Cargo)
+Synthetic Mining Lens, Qty: 11 (Cargo)
+Synthetic Mining Lens 
+Cargo Grid 
+
+Dropped items:
+
+Engine uSOF XS 
+Afterburner 
+Cargo Grid 
+Small Cutting Laser 
+

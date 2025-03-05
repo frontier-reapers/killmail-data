@@ -1,0 +1,50 @@
+2025.02.17 20:22:13
+
+Victim: ATP
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Flegel
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 6271
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Strix
+Weapon: Base Autocannon (S)
+Damage Done: 6271
+
+Destroyed items:
+
+Base Autocannon (S) (Cargo)
+Cargo Grid 
+Small Cutting Laser 
+AC Gyrojet Ammo 1 (S) , Qty: 2559 (Cargo)
+Kinetic Field Array VI 
+Synthetic Mining Lens, Qty: 105 (Cargo)
+Nimble Armor Plates II (Cargo)
+Cargo Grid 
+Small Cutting Laser 
+Small Cutting Laser 
+Nimble Armor Plates IV (Cargo)
+
+Dropped items:
+
+Cargo Grid 
+Cargo Grid 
+Synthetic Mining Lens 
+Base Autocannon (S), Qty: 2 (Cargo)
+Synthetic Mining Lens 
+Engine SNM M 
+Synthetic Mining Lens 
+Synthetic Mining Lens 
+Afterburner III 
+Small Cutting Laser 
+Thermal Field Array VI 
+

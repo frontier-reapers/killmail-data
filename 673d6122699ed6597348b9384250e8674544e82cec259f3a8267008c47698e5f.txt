@@ -1,0 +1,41 @@
+2025.01.17 08:42:52
+
+Victim: Kalipatu
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: M.ECK.CQX
+Security: 0.0
+Damage Taken: 1599
+
+Involved parties:
+
+Name: Jamie (laid the final blow)
+Security: 0.30
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Smart Turret
+Weapon: Base Coilgun (S)
+Damage Done: 1328
+
+Name: Scetrov
+Security: 0.1
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Unknown
+Weapon: Smart Turret
+Damage Done: 271
+
+Destroyed items:
+
+Engine uSOF XS 
+Small Cutting Laser 
+
+Dropped items:
+
+Synthetic Mining Lens, Qty: 5 (Cargo)
+Afterburner 
+

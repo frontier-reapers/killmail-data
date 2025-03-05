@@ -1,0 +1,27 @@
+2025.02.16 09:47:28
+
+Victim: Tapticc
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1599
+
+Involved parties:
+
+Name: PannedCakes (laid the final blow)
+Security: 0.00
+Corp: Clonebank 86
+Alliance: None
+Faction: None
+Ship: Forager
+Weapon: Base Autocannon (S)
+Damage Done: 1599
+
+Dropped items:
+
+Engine uSOF XS 
+Afterburner 
+

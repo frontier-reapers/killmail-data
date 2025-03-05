@@ -1,0 +1,45 @@
+2025.02.06 22:21:59
+
+Victim: Larop
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Strix
+System: U.54K.1R1
+Security: 0.0
+Damage Taken: 2535
+
+Involved parties:
+
+Name: Scetrov (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Smart Turret
+Weapon: Base Coilgun (S)
+Damage Done: 2535
+
+Destroyed items:
+
+Luminalis Mining Lens 
+Engine GSC S 
+Systematic Armor Restorer II 
+Luminalis Mining Lens 
+Medium Cutting Laser 
+Afterburner II 
+
+Dropped items:
+
+SOF-80 Fuel, Qty: 969 (Cargo)
+Cargo Grid 
+Cargo Grid 
+Luminalis Mining Lens, Qty: 12 (Cargo)
+EU-40 Fuel, Qty: 1236 (Cargo)
+Large Cutting Laser, Qty: 3 (Cargo)
+Luminalis Mining Lens 
+Systematic Armor Restorer II 
+Medium Cutting Laser 
+Cargo Grid 
+Medium Cutting Laser 
+

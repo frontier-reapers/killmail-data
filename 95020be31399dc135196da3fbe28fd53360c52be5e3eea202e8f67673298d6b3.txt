@@ -1,0 +1,58 @@
+2025.01.19 01:19:00
+
+Victim: Runge
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Smart Gate
+System: M.ECK.CQX
+Security: 0.0
+Damage Taken: 75400
+
+Involved parties:
+
+Name: MrDeadMeat
+Security: 0.1
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 27137
+
+Name: Alpha (laid the final blow)
+Security: 0.10
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Base Railgun (L)
+Damage Done: 22458
+
+Name: Kieser Soze
+Security: 0.1
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 21804
+
+Name: RapidTaco
+Security: 0.0
+Corp: Foundation
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Microptero
+Damage Done: 4001
+
+Name: Harudath
+Security: 0.0
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Warp Entangler II
+Damage Done: 0
+

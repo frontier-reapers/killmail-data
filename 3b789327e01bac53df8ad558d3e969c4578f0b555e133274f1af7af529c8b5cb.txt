@@ -1,0 +1,37 @@
+2025.02.17 15:03:03
+
+Victim: Howard Tich
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 451
+
+Involved parties:
+
+Name: Scetrov (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Smart Turret
+Weapon: Base Coilgun (S)
+Damage Done: 451
+
+Destroyed items:
+
+Small Cutting Laser 
+Afterburner 
+Engine uSOF XS 
+
+Dropped items:
+
+Cargo Grid 
+Carbonaceous Ore, Qty: 1688 (Cargo)
+Cargo Grid 
+Synthetic Mining Lens (Cargo)
+uSOF-30 Fuel, Qty: 194 (Cargo)
+Synthetic Mining Lens 
+

@@ -1,0 +1,42 @@
+2025.02.01 19:06:14
+
+Victim: Scetrov
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Axte
+System: F:272L
+Security: 0.0
+Damage Taken: 12158
+
+Involved parties:
+
+Name: Feral Mooneater / Unknown (laid the final blow)
+Damage Done: 12158
+
+Destroyed items:
+
+Shield Restorer IV 
+Warp Entangler II 
+Base Howitzer (M) 
+Shield Restorer II 
+Attuned Shield Generator IV 
+Engine GSC L 
+Afterburner V 
+Howitzer Ammo 1 (M), Qty: 5762 (Cargo)
+Howitzer Ammo 1 (M), Qty: 15 
+
+Dropped items:
+
+Attuned Shield Generator IV 
+Base Howitzer (M) 
+Cargo Grid 
+Base Howitzer (M) 
+Base Howitzer (M) 
+Shield Restorer IV 
+Shield Restorer II 
+Cargo Grid 
+Howitzer Ammo 1 (M), Qty: 15 
+Howitzer Ammo 1 (M), Qty: 15 
+Howitzer Ammo 1 (M), Qty: 15 
+

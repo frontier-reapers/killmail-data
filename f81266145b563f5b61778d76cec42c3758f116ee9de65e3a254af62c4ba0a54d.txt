@@ -1,0 +1,36 @@
+2025.01.17 21:54:37
+
+Victim: zlo
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1600
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Base Coilgun (S)
+Damage Done: 1600
+
+Destroyed items:
+
+Metal-rich Ore, Qty: 238 (Cargo)
+Small Cutting Laser 
+Synthetic Mining Lens 
+Synthetic Mining Lens, Qty: 4 (Cargo)
+
+Dropped items:
+
+Afterburner 
+Crystalline Silicates, Qty: 100 (Cargo)
+Engine uSOF XS 
+Carbonaceous Materials, Qty: 50 (Cargo)
+

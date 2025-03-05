@@ -1,0 +1,30 @@
+2025.02.14 15:27:49
+
+Victim: Tsatog
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1211
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Harpia
+Weapon: Base Autocannon (S)
+Damage Done: 1211
+
+Destroyed items:
+
+Synthetic Mining Lens, Qty: 3 (Cargo)
+Synthetic Mining Lens 
+Afterburner 
+Small Cutting Laser 
+Engine uSOF XS 
+

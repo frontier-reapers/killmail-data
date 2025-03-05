@@ -1,0 +1,32 @@
+2025.02.19 18:51:32
+
+Victim: ATP
+Corp: Caldari's First Order 3
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: D.1JY.1P1
+Security: 0.0
+Damage Taken: 1592
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Strix
+Weapon: Base Autocannon (S)
+Damage Done: 1592
+
+Destroyed items:
+
+Small Cutting Laser (Cargo)
+uSOF-30 Fuel, Qty: 200 (Cargo)
+
+Dropped items:
+
+Carbonaceous Ore, Qty: 400 (Cargo)
+Engine uSOF XS 
+

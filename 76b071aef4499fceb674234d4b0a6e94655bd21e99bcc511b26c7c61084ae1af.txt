@@ -1,0 +1,33 @@
+2025.01.25 09:04:57
+
+Victim: 403Pig
+Corp: ONYX
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: H:3O8O
+Security: 0.0
+Damage Taken: 1600
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Explorer
+Weapon: Small Cutting Laser
+Damage Done: 1600
+
+Destroyed items:
+
+Afterburner 
+Small Cutting Laser 
+Synthetic Mining Lens 
+
+Dropped items:
+
+Synthetic Mining Lens (Cargo)
+Engine uSOF XS 
+

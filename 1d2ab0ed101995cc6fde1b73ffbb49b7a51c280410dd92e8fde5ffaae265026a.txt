@@ -1,0 +1,58 @@
+2025.01.21 16:33:11
+
+Victim: Goblox
+Corp: Psyche Ward
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Smart Gate
+System: T.NDX.QF3
+Security: 0.0
+Damage Taken: 54964
+
+Involved parties:
+
+Name: Runge
+Security: 0.2
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 14247
+
+Name: Ruke
+Security: 0.0
+Corp: Reapers III
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 12943
+
+Name: Scetrov (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Base Coilgun (M)
+Damage Done: 11353
+
+Name: Wallyx
+Security: 0.1
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 10665
+
+Name: Raw
+Security: 0.2
+Corp: Reapers II
+Alliance: None
+Faction: None
+Ship: Flegel
+Weapon: Flegel
+Damage Done: 5756
+

@@ -1,0 +1,63 @@
+2025.02.22 18:30:37
+
+Victim: Cantabar
+Corp: Caldari's First Order
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Grus
+System: B:2AK7
+Security: 0.0
+Damage Taken: 49476
+
+Involved parties:
+
+Name: Feral Mooneater / Unknown
+Damage Done: 48987
+
+Name: phantom (laid the final blow)
+Security: 0.20
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 489
+
+Destroyed items:
+
+Afterburner VI 
+Base Railgun (L) 
+Cargo Grid 
+Shield Restorer VI 
+Railgun Ammo 1 (L), Qty: 2730 (Cargo)
+Steel Plates, Qty: 804 (Cargo)
+Silicates, Qty: 1290 (Cargo)
+Engine GSC L 
+Shield Restorer VI 
+Base Railgun (L) 
+Cargo Grid 
+Cargo Grid 
+Railgun Ammo 1 (L), Qty: 8 
+Railgun Ammo 1 (L), Qty: 7 
+Railgun Ammo 1 (L), Qty: 7 
+
+Dropped items:
+
+Thermal Field Array VI, Qty: 2 (Cargo)
+Light Metal Framing, Qty: 240 (Cargo)
+Base Railgun (L) 
+Explosive Field Array VI, Qty: 2 (Cargo)
+Cargo Grid 
+Shield Restorer VI 
+Shield Restorer VI 
+Steel Beams, Qty: 78 (Cargo)
+EU-90 Fuel, Qty: 1946 (Cargo)
+EM Field Array VI 
+Base Railgun (L) 
+Attuned Shield Generator VI 
+Attuned Shield Generator VI 
+Kinetic Field Array VI, Qty: 2 (Cargo)
+Light Metal Alloy, Qty: 1200 (Cargo)
+EM Field Array VI (Cargo)
+Railgun Ammo 1 (L), Qty: 8 
+

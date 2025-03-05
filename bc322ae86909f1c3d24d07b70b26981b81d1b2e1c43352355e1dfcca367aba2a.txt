@@ -1,0 +1,36 @@
+2025.02.16 13:52:45
+
+Victim: Centaurus LaCrux
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1600
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Strix
+Weapon: Base Autocannon (S)
+Damage Done: 1600
+
+Destroyed items:
+
+Metal-rich Ore, Qty: 359 (Cargo)
+Small Cutting Laser 
+Engine uSOF XS 
+Cargo Grid 
+
+Dropped items:
+
+Synthetic Mining Lens 
+Synthetic Mining Lens, Qty: 2 (Cargo)
+Carbonaceous Ore, Qty: 5 (Cargo)
+Afterburner 
+

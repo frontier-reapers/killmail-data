@@ -1,0 +1,26 @@
+2025.01.20 21:17:37
+
+Victim: Damon Phet
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: B.6RE.QR1
+Security: 0.0
+Damage Taken: 1156
+
+Involved parties:
+
+Name: Daemon Xel (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Dremar
+Weapon: Base Coilgun (S)
+Damage Done: 1156
+
+Destroyed items:
+
+Engine uSOF XS 
+

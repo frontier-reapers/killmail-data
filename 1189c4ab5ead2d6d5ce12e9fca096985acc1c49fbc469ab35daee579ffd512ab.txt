@@ -1,0 +1,40 @@
+2025.02.16 10:19:04
+
+Victim: Ezekiel
+Corp: Riders On The Storm
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1600
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Strix
+Weapon: Base Autocannon (S)
+Damage Done: 1600
+
+Destroyed items:
+
+Synthetic Mining Lens, Qty: 7 (Cargo)
+Synthetic Mining Lens 
+Engine uSOF XS 
+Silicates, Qty: 336 (Cargo)
+Cargo Grid 
+Carbonaceous Ore, Qty: 622 (Cargo)
+Cargo Grid 
+
+Dropped items:
+
+Synthetic Mining Lens (Cargo)
+Water Ice, Qty: 18760 (Cargo)
+Afterburner 
+Carbonaceous Materials, Qty: 2352 (Cargo)
+Small Cutting Laser 
+

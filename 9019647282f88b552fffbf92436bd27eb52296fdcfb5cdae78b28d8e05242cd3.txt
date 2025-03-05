@@ -1,0 +1,85 @@
+2025.01.19 23:37:07
+
+Victim: Runge
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Smart Gate
+System: M.ECK.CQX
+Security: 0.0
+Damage Taken: 58747
+
+Involved parties:
+
+Name: MrDeadMeat
+Security: 0.1
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 13230
+
+Name: Goblox
+Security: 0.2
+Corp: Psyche Ward
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 11753
+
+Name: Eldareth (laid the final blow)
+Security: 0.20
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Base Railgun (L)
+Damage Done: 10623
+
+Name: John
+Security: 0.3
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 9740
+
+Name: Caly
+Security: 0.1
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 6777
+
+Name: Alazais
+Security: 0.2
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 4561
+
+Name: RapidTaco
+Security: 0.0
+Corp: Foundation
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Microptero
+Damage Done: 2063
+
+Name: Harudath
+Security: 0.0
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Warp Entangler II
+Damage Done: 0
+

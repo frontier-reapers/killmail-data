@@ -1,0 +1,32 @@
+2025.02.19 06:41:53
+
+Victim: Catangle
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1600
+
+Involved parties:
+
+Name: Scetrov (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Smart Turret
+Weapon: Base Coilgun (S)
+Damage Done: 1600
+
+Destroyed items:
+
+Engine uSOF XS 
+
+Dropped items:
+
+Synthetic Mining Lens, Qty: 5 (Cargo)
+Afterburner 
+Small Cutting Laser 
+

@@ -1,0 +1,49 @@
+2025.01.19 02:21:00
+
+Victim: Jamie
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Smart Gate
+System: D.0MK.66P
+Security: 0.0
+Damage Taken: 63790
+
+Involved parties:
+
+Name: MrDeadMeat
+Security: 0.1
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 25965
+
+Name: Alpha (laid the final blow)
+Security: 0.10
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Base Railgun (L)
+Damage Done: 19263
+
+Name: Kieser Soze
+Security: 0.1
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Warp Entangler II
+Damage Done: 18562
+
+Name: Harudath
+Security: 0.0
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Warp Entangler II
+Damage Done: 0
+

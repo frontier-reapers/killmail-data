@@ -1,0 +1,49 @@
+2025.01.19 12:46:04
+
+Victim: Runge
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Smart Gate
+System: M.ECK.CQX
+Security: 0.0
+Damage Taken: 158780
+
+Involved parties:
+
+Name: MrDeadMeat
+Security: 0.1
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 49706
+
+Name: Caly (laid the final blow)
+Security: 0.10
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Rapid Plasma (M)
+Damage Done: 38645
+
+Name: Alazais
+Security: 0.2
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 38159
+
+Name: Eldareth
+Security: 0.2
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 32270
+

@@ -1,0 +1,22 @@
+2025.02.18 21:01:44
+
+Victim: Malbo
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Jauv
+System: A.M8Z.8C1
+Security: 0.0
+Damage Taken: 2399
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Base Coilgun (S)
+Damage Done: 2399
+

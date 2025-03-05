@@ -1,0 +1,134 @@
+2025.02.22 18:26:20
+
+Victim: Tapticc
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Caruda
+System: B:2AK7
+Security: 0.0
+Damage Taken: 16557
+
+Involved parties:
+
+Name: Feral Drone Kataphron (laid the final blow)
+Security: 0.00
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Base Railgun (L)
+Damage Done: 4902
+
+Name: Feral Drone Proctor
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 4480
+
+Name: Feral Drone Revenant
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 2455
+
+Name: Feral Drone Enigma
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 2373
+
+Name: Feral Drone Experiment
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 1498
+
+Name: Feral Drone Carnifex
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 849
+
+Name: Feral Drone Psychosis
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Base Railgun (L)
+Damage Done: 0
+
+Name: Feral Drone Tau
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Base Railgun (L)
+Damage Done: 0
+
+Name: Feral Drone Telos
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Base Railgun (L)
+Damage Done: 0
+
+Name: Feral Drone Epitaph
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Base Railgun (L)
+Damage Done: 0
+
+Destroyed items:
+
+Engine GSC L 
+Shield Restorer VI 
+Warp Entangler II 
+Afterburner VI 
+Steel Plates, Qty: 90 (Cargo)
+EU-90 Fuel, Qty: 5317 (Cargo)
+Cargo Grid 
+Cargo Grid 
+Cargo Grid 
+Steel Beams, Qty: 9 (Cargo)
+Cargo Grid 
+Base Railgun (L) 
+Base Railgun (L) 
+Railgun Ammo 1 (L), Qty: 4 
+Railgun Ammo 1 (L), Qty: 4 
+
+Dropped items:
+
+Shield Restorer VI 
+Shield Restorer IV 
+Attuned Shield Generator IV 
+Cargo Grid 
+Light Metal Framing, Qty: 9 (Cargo)
+Attuned Shield Generator IV 
+Railgun Ammo 1 (L), Qty: 3275 (Cargo)
+Base Railgun (L) 
+Cargo Grid 
+Railgun Ammo 1 (L), Qty: 4 
+

@@ -1,0 +1,47 @@
+2025.02.01 18:57:19
+
+Victim: AuldYin
+Corp: DEAD
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Harpia
+System: F:272L
+Security: 0.0
+Damage Taken: 13221
+
+Involved parties:
+
+Name: Feral Mooneater / Unknown
+Damage Done: 12712
+
+Name: Scetrov (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 509
+
+Destroyed items:
+
+Thermalnetic Nanitic Brace II 
+Engine SNM M 
+Medium Cutting Laser 
+Systematic Armor Restorer II 
+Radiantium Mining Lens 
+Cargo Grid 
+Coated Armor Plates II 
+
+Dropped items:
+
+Medium Cutting Laser 
+Afterburner II 
+EU-40 Fuel, Qty: 1753 (Cargo)
+Systematic Armor Restorer II 
+Coated Armor Plates II 
+Medium Cutting Laser 
+Radiantium Mining Lens, Qty: 495 (Cargo)
+Radiantium Mining Lens 
+Radiantium Mining Lens 
+

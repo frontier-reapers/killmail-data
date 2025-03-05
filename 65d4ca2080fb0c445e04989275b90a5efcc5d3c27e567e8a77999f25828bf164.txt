@@ -1,0 +1,42 @@
+2025.02.01 19:04:59
+
+Victim: Runge
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Axte
+System: F:272L
+Security: 0.0
+Damage Taken: 36167
+
+Involved parties:
+
+Name: Feral Mooneater / Unknown (laid the final blow)
+Damage Done: 36167
+
+Destroyed items:
+
+Base Howitzer (M) 
+Shield Restorer II 
+Afterburner V 
+Shield Restorer II 
+Attuned Shield Generator IV 
+Howitzer Ammo 1 (M), Qty: 9 
+
+Dropped items:
+
+Shield Restorer IV 
+Shield Restorer IV 
+Cargo Grid 
+Base Howitzer (M) 
+Cargo Grid 
+Shield Restorer IV 
+Howitzer Ammo 1 (M), Qty: 3620 (Cargo)
+Base Howitzer (M) 
+Attuned Shield Generator IV 
+Engine GSC L 
+Base Howitzer (M) 
+Howitzer Ammo 1 (M), Qty: 9 
+Howitzer Ammo 1 (M), Qty: 9 
+Howitzer Ammo 1 (M), Qty: 9 
+

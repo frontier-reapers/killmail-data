@@ -1,0 +1,29 @@
+2025.02.18 04:59:35
+
+Victim: Hartuk
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1600
+
+Involved parties:
+
+Name: MisterRabbit (laid the final blow)
+Security: 0.00
+Corp: Clonebank 86
+Alliance: None
+Faction: None
+Ship: Forager
+Weapon: Base Coilgun (S)
+Damage Done: 1600
+
+Destroyed items:
+
+Afterburner 
+Engine uSOF XS 
+Small Cutting Laser 
+Synthetic Mining Lens, Qty: 5 (Cargo)
+

@@ -1,0 +1,33 @@
+2025.02.03 11:11:55
+
+Victim: Runge
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Microptero
+System: F:272L
+Security: 0.0
+Damage Taken: 3859
+
+Involved parties:
+
+Name: Feral Mooneater / Unknown (laid the final blow)
+Damage Done: 3859
+
+Destroyed items:
+
+Nimble Armor Plates II 
+Systematic Armor Restorer II 
+EU-90 Fuel, Qty: 397 (Cargo)
+Afterburner II 
+Base Coilgun (S) 
+Thermalnetic Nanitic Brace II 
+
+Dropped items:
+
+Coilgun Ammo 1 (S), Qty: 360 (Cargo)
+Nimble Armor Plates II 
+Engine GSC S 
+Base Coilgun (S) 
+Coilgun Ammo 1 (S), Qty: 40 
+

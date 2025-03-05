@@ -1,0 +1,134 @@
+2025.02.22 18:25:12
+
+Victim: Runge
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Grus
+System: B:2AK7
+Security: 0.0
+Damage Taken: 19492
+
+Involved parties:
+
+Name: Feral Drone Proctor (laid the final blow)
+Security: 0.00
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Base Railgun (L)
+Damage Done: 5102
+
+Name: Feral Drone Obliterator
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 2686
+
+Name: Feral Drone Carnifex
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 2581
+
+Name: Feral Drone Revenant
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 1969
+
+Name: Spece
+Security: 0.0
+Corp: REAPERS IV
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 1885
+
+Name: Feral Drone Enigma
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 1648
+
+Name: Jamiwith
+Security: 0.8
+Corp: Caldari's First Order Alternate
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 1475
+
+Name: Feral Drone Experiment
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 1095
+
+Name: Feral Drone Tiamat
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 1051
+
+Name: Feral Drone Telos
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Base Railgun (L)
+Damage Done: 0
+
+Destroyed items:
+
+Shield Restorer VI 
+Light Metal Framing, Qty: 3 (Cargo)
+Attuned Shield Generator VI 
+Rapid Plasma Ammo 1 (M), Qty: 5066 (Cargo)
+Shield Restorer VI 
+Engine GSC L 
+Shield Restorer VI 
+Rapid Plasma (M) 
+Steel Beams, Qty: 3 (Cargo)
+Rapid Plasma Ammo 1 (M), Qty: 48 
+Rapid Plasma Ammo 1 (M), Qty: 48 
+
+Dropped items:
+
+Rapid Plasma (M) 
+Shield Restorer VI 
+Rapid Plasma (M) 
+Shield Restorer VI 
+Cargo Grid 
+Rapid Plasma (M) 
+Shield Restorer VI 
+Cargo Grid 
+Cargo Grid 
+Steel Plates, Qty: 30 (Cargo)
+Attuned Shield Generator VI 
+Cargo Grid 
+Rapid Plasma Ammo 1 (M), Qty: 41 
+Rapid Plasma Ammo 1 (M), Qty: 41 
+

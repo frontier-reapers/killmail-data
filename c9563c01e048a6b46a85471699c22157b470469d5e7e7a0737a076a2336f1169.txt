@@ -1,0 +1,44 @@
+2025.01.19 02:38:45
+
+Victim: Jamie
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Smart Turret
+System: M.ECK.CQX
+Security: 0.0
+Damage Taken: 11851
+
+Involved parties:
+
+Name: MrDeadMeat
+Security: 0.1
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 4462
+
+Name: Alpha (laid the final blow)
+Security: 0.10
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Base Railgun (L)
+Damage Done: 4314
+
+Name: Kieser Soze
+Security: 0.1
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 3075
+
+Destroyed items:
+
+Base Coilgun (M) 
+

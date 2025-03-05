@@ -1,0 +1,95 @@
+2025.02.22 18:40:32
+
+Victim: phantom
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Grus
+System: B:2AK7
+Security: 0.0
+Damage Taken: 15969
+
+Involved parties:
+
+Name: Feral Drone Extirpator
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 5256
+
+Name: Feral Drone Proctor
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 4540
+
+Name: Feral Drone Carnifex
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 2441
+
+Name: Feral Drone Epitaph
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 1758
+
+Name: Feral Drone Telos (laid the final blow)
+Security: 0.00
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Base Railgun (L)
+Damage Done: 1263
+
+Name: Feral Drone Obliterator
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 711
+
+Destroyed items:
+
+Plasma Cannon Ammo 1 (L), Qty: 2000 (Cargo)
+Cargo Grid 
+Plasma Cannon (L) 
+Shield Restorer VI 
+Shield Restorer VI 
+Cargo Grid 
+Plasma Cannon (L) 
+Plasma Cannon Ammo 1 (L), Qty: 29 
+
+Dropped items:
+
+Plasma Cannon Ammo 1 (L), Qty: 5140 (Cargo)
+Afterburner V 
+Cargo Grid 
+Plasma Cannon (L) 
+Attuned Shield Generator VI 
+Plasma Cannon (L) 
+Attuned Shield Generator VI 
+Cargo Grid 
+Engine GSC L 
+Shield Restorer VI 
+Shield Restorer VI 
+Plasma Cannon Ammo 1 (L), Qty: 31 
+Plasma Cannon Ammo 1 (L), Qty: 19 
+Plasma Cannon Ammo 1 (L), Qty: 19 
+

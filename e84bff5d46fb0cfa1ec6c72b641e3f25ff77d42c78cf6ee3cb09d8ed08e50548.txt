@@ -1,0 +1,41 @@
+2025.01.19 00:14:07
+
+Victim: Modeval
+Corp: Reapers III
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: M.ECK.CQX
+Security: 0.0
+Damage Taken: 1599
+
+Involved parties:
+
+Name: Jamie
+Security: 0.3
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Unknown
+Weapon: Smart Turret
+Damage Done: 838
+
+Name: Scetrov (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Smart Turret
+Weapon: Base Coilgun (S)
+Damage Done: 761
+
+Destroyed items:
+
+Synthetic Mining Lens, Qty: 5 (Cargo)
+Engine uSOF XS 
+Small Cutting Laser 
+
+Dropped items:
+
+Afterburner 
+

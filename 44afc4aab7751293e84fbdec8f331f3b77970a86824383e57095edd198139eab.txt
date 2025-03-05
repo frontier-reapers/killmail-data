@@ -1,0 +1,27 @@
+2025.02.19 07:20:30
+
+Victim: Jamie
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Explorer
+System: B:22VR
+Security: 0.0
+Damage Taken: 999
+
+Involved parties:
+
+Name: E V (laid the final blow)
+Security: 0.00
+Corp: Clonebank 86
+Alliance: None
+Faction: None
+Ship: Explorer
+Weapon: Small Cutting Laser
+Damage Done: 999
+
+Destroyed items:
+
+Engine uSOF XS 
+uSOF-30 Fuel, Qty: 1577 (Cargo)
+

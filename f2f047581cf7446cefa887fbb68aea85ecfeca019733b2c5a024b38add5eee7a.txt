@@ -1,0 +1,31 @@
+2025.02.19 07:21:57
+
+Victim: Jamie
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: B:22VR
+Security: 0.0
+Damage Taken: 1599
+
+Involved parties:
+
+Name: E V (laid the final blow)
+Security: 0.00
+Corp: Clonebank 86
+Alliance: None
+Faction: None
+Ship: Explorer
+Weapon: Small Cutting Laser
+Damage Done: 1599
+
+Destroyed items:
+
+Afterburner 
+Small Cutting Laser 
+
+Dropped items:
+
+Engine uSOF XS 
+

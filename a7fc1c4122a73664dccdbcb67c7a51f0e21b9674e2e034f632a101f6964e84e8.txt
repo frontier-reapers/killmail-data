@@ -1,0 +1,33 @@
+2025.01.30 10:12:06
+
+Victim: Scetrov
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1599
+
+Involved parties:
+
+Name: Warkus (laid the final blow)
+Security: 0.30
+Corp: Wandering Order of the Last Frontier
+Alliance: None
+Faction: None
+Ship: Microptero
+Weapon: Base Autocannon (S)
+Damage Done: 1599
+
+Destroyed items:
+
+Synthetic Mining Lens 
+Engine uSOF XS 
+
+Dropped items:
+
+Synthetic Mining Lens, Qty: 5 (Cargo)
+Afterburner 
+Small Cutting Laser 
+

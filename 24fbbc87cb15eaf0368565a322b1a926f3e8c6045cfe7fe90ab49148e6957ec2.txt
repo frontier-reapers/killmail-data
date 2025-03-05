@@ -1,0 +1,44 @@
+2025.02.01 19:05:40
+
+Victim: Daemon Xel
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Caruda
+System: F:272L
+Security: 0.0
+Damage Taken: 14800
+
+Involved parties:
+
+Name: Feral Mooneater / Unknown (laid the final blow)
+Damage Done: 14800
+
+Destroyed items:
+
+Railgun Ammo 3 (L), Qty: 1014 (Cargo)
+Base Coilgun (M) 
+Systematic Armor Restorer IV 
+Thermalnetic Nanitic Brace VI 
+Coated Armor Plates VI 
+Cargo Grid 
+Cargo Grid 
+Base Railgun (L) 
+Engine GSC L 
+Coilgun Ammo 2 (M), Qty: 5728 (Cargo)
+Thermalnetic Nanitic Brace VI 
+Railgun Ammo 3 (L), Qty: 7 
+Coilgun Ammo 2 (M), Qty: 29 
+
+Dropped items:
+
+Systematic Armor Restorer IV 
+Cargo Grid 
+Afterburner VI 
+Cargo Grid 
+Cargo Grid 
+Base Coilgun (M) 
+Coated Armor Plates VI 
+Cargo Grid 
+Coilgun Ammo 2 (M), Qty: 29 
+

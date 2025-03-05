@@ -1,0 +1,157 @@
+2025.02.22 18:23:55
+
+Victim: Michael JD
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Caruda
+System: B:2AK7
+Security: 0.0
+Damage Taken: 16494
+
+Involved parties:
+
+Name: Feral Drone Telos
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 2576
+
+Name: Feral Drone Obliterator
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 2527
+
+Name: Feral Drone Experiment
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Base Railgun (L)
+Damage Done: 2011
+
+Name: Feral Drone Psychosis
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Base Railgun (L)
+Damage Done: 1844
+
+Name: Feral Drone Tau (laid the final blow)
+Security: 0.00
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Base Railgun (L)
+Damage Done: 1696
+
+Name: Feral Drone Proctor
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 1678
+
+Name: Feral Drone Tiamat
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Base Railgun (L)
+Damage Done: 1483
+
+Name: Feral Drone Revenant
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Grus
+Damage Done: 1172
+
+Name: Feral Drone Epitaph
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 829
+
+Name: Feral Drone Enigma
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Base Railgun (L)
+Damage Done: 478
+
+Name: HookieBookie
+Security: 0.2
+Corp: Algorithmic Warfare
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 200
+
+Name: Feral Drone Carnifex
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Base Railgun (L)
+Damage Done: 0
+
+Name: Feral Drone Kataphron
+Security: 0.0
+Corp: Calamity
+Alliance: None
+Faction: None
+Ship: Grus
+Weapon: Base Railgun (L)
+Damage Done: 0
+
+Destroyed items:
+
+Coated Armor Plates VI 
+Cargo Grid 
+Plasma Cannon (L) 
+Systematic Armor Restorer VI 
+Plasma Cannon Ammo 1 (L), Qty: 4260 (Cargo)
+Thermalnetic Nanitic Brace VI 
+Systematic Armor Restorer VI 
+Plasma Cannon Ammo 1 (L), Qty: 5 
+
+Dropped items:
+
+Cargo Grid 
+Plasma Cannon (L) 
+Cargo Grid 
+Afterburner VI 
+Coated Armor Plates VI 
+Plasma Cannon (L) 
+Thermalnetic Nanitic Brace VI 
+Cargo Grid 
+Cargo Grid 
+Engine GSC L 
+Cargo Grid 
+Plasma Cannon Ammo 1 (L), Qty: 5 
+Plasma Cannon Ammo 1 (L), Qty: 5 
+

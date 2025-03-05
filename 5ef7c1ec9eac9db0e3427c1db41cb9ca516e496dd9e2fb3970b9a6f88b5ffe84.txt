@@ -1,0 +1,38 @@
+2025.02.15 13:26:09
+
+Victim: AzKnight
+Corp: Clonebank 86
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Forager
+System: E.T2Z.2D1
+Security: 0.0
+Damage Taken: 1599
+
+Involved parties:
+
+Name: Tapticc (laid the final blow)
+Security: 0.10
+Corp: Reapers
+Alliance: None
+Faction: None
+Ship: Strix
+Weapon: Base Autocannon (S)
+Damage Done: 1586
+
+Name: Osa Frigate / Rogue Drones
+Damage Done: 13
+
+Destroyed items:
+
+Small Cutting Laser 
+Afterburner 
+Carbonaceous Ore, Qty: 840 (Cargo)
+Synthetic Mining Lens, Qty: 6 (Cargo)
+uSOF-30 Fuel, Qty: 81 (Cargo)
+Engine uSOF XS 
+
+Dropped items:
+
+Synthetic Mining Lens 
+

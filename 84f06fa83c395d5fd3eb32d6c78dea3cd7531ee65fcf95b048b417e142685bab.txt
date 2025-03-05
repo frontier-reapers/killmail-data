@@ -1,0 +1,40 @@
+2025.01.19 12:39:03
+
+Victim: Runge
+Corp: Reapers
+Alliance: Unknown
+Faction: Unknown
+Destroyed: Smart Gate
+System: M.ECK.CQX
+Security: 0.0
+Damage Taken: 307701
+
+Involved parties:
+
+Name: Alazais
+Security: 0.2
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Axte
+Damage Done: 130358
+
+Name: Eldareth
+Security: 0.2
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Caruda
+Weapon: Caruda
+Damage Done: 96431
+
+Name: Caly (laid the final blow)
+Security: 0.10
+Corp: Rooks and Kings
+Alliance: None
+Faction: None
+Ship: Axte
+Weapon: Rapid Plasma (M)
+Damage Done: 80912
+
